@@ -70,12 +70,16 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=diaz-rigo&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Estadísticas de GitHub" height="165"/>
+
+<img src="https://https://diaz-rigo.vercel.app/api?username=diaz-rigo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+<img src="https://https://diaz-rigo.vercel.app/api/top-langs/?username=diaz-rigo&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaz-rigo&theme=radical&hide_border=true" alt="Racha en GitHub" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaz-rigo&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Lenguajes más usados"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=diaz-rigo&theme=radical&hide_border=true" alt="Gráfica de actividad" width="90%"/>
+
 
 </div>
 
@@ -85,7 +89,8 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 
 ### 🏆 Trofeos
 
-<img src="https://github-profile-trophy.vercel.app/?username=diaz-rigo&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trofeos de GitHub"/>
+
+<img src="https://github-profile-trophy-peach-three.vercel.app/?username=diaz-rigo&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trofeos de GitHub"/>
 
 </div>
 
