@@ -71,8 +71,8 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 <div align="center">
 
 
-<img src="https://https://diaz-rigo.vercel.app/api?username=diaz-rigo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-<img src="https://https://diaz-rigo.vercel.app/api/top-langs/?username=diaz-rigo&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
+<img src="https://diaz-rigo.vercel.app/api?username=diaz-rigo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+<img src="https://diaz-rigo.vercel.app/api/top-langs/?username=diaz-rigo&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaz-rigo&theme=radical&hide_border=true" alt="Racha en GitHub" height="165"/>
