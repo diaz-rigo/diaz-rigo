@@ -26,7 +26,9 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 
 <br clear="both"/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=40&section=header" width="100%"/>
+</div>
 
 ## 🛠️ Stack Tecnológico
 
@@ -60,7 +62,9 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=40&section=header" width="100%"/>
+</div>
 
 ## 📊 Actividad en GitHub
 
@@ -75,28 +79,31 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 
 </div>
 
----
-
-## 🔧 Proyectos destacados
+<br>
 
 <div align="center">
 
-<a href="https://github.com/diaz-rigo/proyecto-automatizacion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diaz-rigo&repo=proyecto-automatizacion&theme=radical&hide_border=true" alt="Automatización con Selenium"/>
-</a>
-<a href="https://github.com/diaz-rigo/e-commerce-angular">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diaz-rigo&repo=e-commerce-angular&theme=radical&hide_border=true" alt="E-commerce con Angular"/>
-</a>
-<br/>
-<a href="https://github.com/diaz-rigo/gestor-archivos-flask">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diaz-rigo&repo=gestor-archivos-flask&theme=radical&hide_border=true" alt="Gestor de archivos con Flask"/>
-</a>
+### 🏆 Trofeos
+
+<img src="https://github-profile-trophy.vercel.app/?username=diaz-rigo&theme=radical&no-frame=true&row=1&column=6" alt="Trofeos de GitHub"/>
 
 </div>
 
-> 💡 **Nota:** si alguno de estos repos cambia de nombre o es privado, la tarjeta se mostrará vacía — actualiza el parámetro `repo=` con el nombre exacto del repositorio.
+<br>
 
----
+<div align="center">
+
+### 🐍 Historial de contribuciones
+
+<img src="https://raw.githubusercontent.com/diaz-rigo/diaz-rigo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<sub>✨ Se genera y actualiza sola cada día mediante una GitHub Action — ver nota de configuración al final del README.</sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=40&section=header" width="100%"/>
+</div>
 
 ## 🌐 Conéctate conmigo
 
@@ -125,3 +132,18 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
+
+<details>
+<summary>⚙️ Cómo activar la animación de la serpiente (snake)</summary>
+
+<br>
+
+La sección **🐍 Historial de contribuciones** requiere una GitHub Action que genera el SVG automáticamente. Para activarla:
+
+1. Crea el archivo `.github/workflows/snake.yml` en tu repo de perfil (`diaz-rigo/diaz-rigo`) usando la acción [`Platane/snk`](https://github.com/Platane/snk).
+2. Configura el workflow para que corra diariamente (`schedule`) y suba el SVG resultante a una rama `output`.
+3. La imagen del README (`.../output/github-contribution-grid-snake-dark.svg`) se actualizará sola después de la primera ejecución.
+
+Si prefieres no configurarla, simplemente elimina esa sección del README.
+
+</details>
