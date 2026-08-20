@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/octocat.svg" alt="coding illustration" />
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding illustration" />
 
 Soy un **desarrollador web fullstack** apasionado por construir productos digitales sólidos y automatizar procesos que ahorran tiempo y esfuerzo.
 
@@ -70,12 +70,12 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=diaz-rigo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=diaz-rigo&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Estadísticas de GitHub" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaz-rigo&theme=radical&hide_border=true" alt="Racha en GitHub" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaz-rigo&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaz-rigo&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Lenguajes más usados"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diaz-rigo&theme=redical&hide_border=true" alt="Gráfica de actividad" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diaz-rigo&theme=radical&hide_border=true" alt="Gráfica de actividad" width="90%"/>
 
 </div>
 
@@ -85,7 +85,7 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 
 ### 🏆 Trofeos
 
-<img src="https://github-profile-trophy.vercel.app/?username=diaz-rigo&theme=radical&no-frame=true&row=1&column=6" alt="Trofeos de GitHub"/>
+<img src="https://github-profile-trophy.vercel.app/?username=diaz-rigo&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trofeos de GitHub"/>
 
 </div>
 
@@ -96,8 +96,6 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 ### 🐍 Historial de contribuciones
 
 <img src="https://raw.githubusercontent.com/diaz-rigo/diaz-rigo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-<sub>✨ Se genera y actualiza sola cada día mediante una GitHub Action — ver nota de configuración al final del README.</sub>
 
 </div>
 
@@ -132,18 +130,3 @@ Soy un **desarrollador web fullstack** apasionado por construir productos digita
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
-
-<details>
-<summary>⚙️ Cómo activar la animación de la serpiente (snake)</summary>
-
-<br>
-
-La sección **🐍 Historial de contribuciones** requiere una GitHub Action que genera el SVG automáticamente. Para activarla:
-
-1. Crea el archivo `.github/workflows/snake.yml` en tu repo de perfil (`diaz-rigo/diaz-rigo`) usando la acción [`Platane/snk`](https://github.com/Platane/snk).
-2. Configura el workflow para que corra diariamente (`schedule`) y suba el SVG resultante a una rama `output`.
-3. La imagen del README (`.../output/github-contribution-grid-snake-dark.svg`) se actualizará sola después de la primera ejecución.
-
-Si prefieres no configurarla, simplemente elimina esa sección del README.
-
-</details>
